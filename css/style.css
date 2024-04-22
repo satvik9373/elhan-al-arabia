@@ -71,7 +71,7 @@ h4,
 h5,
 h6 {
     font-family: 'Poppins', sans-serif;
-    color: #0a0a0a;
+    color:white !important;
     margin: 0 0 26px;
     line-height: 1.4;
 }
@@ -3612,6 +3612,14 @@ img {
     padding: 20px 0 30px;
 }
 
+.counter-text .rs-counter{
+    color: black !important;
+}
+.b{
+    color: #000;
+    font-size: 30px;
+    font-weight: 600;
+}
 .project-counter .rs-counter-list h3 {
     color: #f8560c;
     margin: 0 0 10px;
